@@ -1,9 +1,9 @@
 import requests
-import discord
+import 1162264893114830911
 import json
 import re
 
-client = discord.Client()
+client = discord.Client(1162264893114830911)
 weather_api_key = "KEY" #API key from https://openweathermap.org/
 discord_api_key = "TOKEN" #Discord bot token from developer portal
 
